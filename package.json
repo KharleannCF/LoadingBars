@@ -7,7 +7,7 @@
     "radial progress",
     "ui"
   ],
-  "version": "0.1.1",
+  "version": "0.1.4",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -20,18 +20,8 @@
     "url": "git+https://github.com/KharleannCF/LoadingBars"
   },
   "dependencies": {
-    "@babel/cli": "^7.16.7",
-    "@babel/polyfill": "^7.12.1",
-    "@babel/preset-env": "^7.16.7",
-    "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
     "prop-types": "^15.8.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0",
-    "styled-components": "^5.3.3",
-    "web-vitals": "^2.1.2"
+    "styled-components": "^5.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
