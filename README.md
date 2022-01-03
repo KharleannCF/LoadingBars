@@ -6,23 +6,20 @@ This is a demo project made in order to create a general use progress bars
 
 ### LinearBar
 
-    Props
-    `
+#### Props
+
     containerBGColor
     width
     height
     barColor
     completed
-    `
 
 ### CircleBar
 
-    Props
-    `
+#### Props
+
     progress
     size
     strokeWidth
     backgroundColor
     barColor
-
-`
